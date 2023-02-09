@@ -1,0 +1,93 @@
+#center1{
+   display: inline-block;
+ }
+ body {
+    background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2F3%2Fb%2F5%2F350880-best-website-background-1920x1200-for-iphone-5.jpg&f=1&nofb=1&ipt=53581c4f085f8bf6f3dc6b424067104ae4fd6bb3b714c45158ca66e3cf2f1ac7&ipo=images) ;
+ }
+
+.ata{
+    background-color:black ;
+    text-align: left;
+
+}
+.ata{
+color: white;
+}
+.pro{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+.top {
+    text-align: center;
+    background-color: #336600;
+}
+.amazon1,.amazon2,.amazon3,.amazon4,.amazon5,.amazon6,.amazon7,.amazon8,.amazon9,.amazon10{
+    color: whitesmoke;
+    background-color:rgba(255, 0, 0,1);
+}
+.recommend{
+    float: left;
+}
+.bold{
+    font-size: 15px;
+    font-family: 'Rowdies', cursive;
+}
+div{
+    display: inline-block;
+    border-radius: 50px;
+    margin: 20px;
+    background-color: rgb(51, 204, 204);
+
+}
+#center1,.border1,#center3,#writting1{
+    display: inline-block;
+    border: solid rgb(102, 255, 204);
+    background-color: rgb(234, 219, 219);
+    border-radius: 30px;
+
+}
+#writting1,#center3,#center1{
+    cursor: pointer;
+}
+.phi23{
+    font-family: 'Rowdies', cursive;
+
+}
+#img1{
+    float:right ;
+}
+.writer{
+    border-bottom:2px solid blueviolet ;
+    width: 200px;
+    border-right:2px solid blueviolet;
+
+
+}
+.amazon10{
+    transition: all 1s;
+
+}
+amazon10:hover{
+    transform: scale(1.1);
+
+}
+.button1,.button2,.button2,.button3,.button4,.button5,.button6,.button7,.button8,.button9,.button10{
+    transition: all  1s;
+}
+.button1:hover,.button2:hover,.button2:hover,.button3:hover,.button4:hover,.button5:hover,.button6:hover,.button7:hover,.button8:hover,.button9:hover,.button10:hover{
+    transform: scale(1.1);
+}
+#center3{
+    margin-right: 20px;
+    border-radius: 30px;
+}
+.border1{
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.search1{
+    text-align: right;
+}
+
